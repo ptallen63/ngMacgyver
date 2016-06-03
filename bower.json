@@ -7,6 +7,10 @@
       "email": "ptallen63@gmail.com"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptallen63/ngMacgyver.git"
+  },
   "main": ["dist/ngmacgyver.js"],
   "ignore": [
     "src",
