@@ -1,12 +1,13 @@
 {
   "name": "ngmacgyver",
-  "version": "0.1.1",
+  
   "authors": [
     {
       "name": "Paul Allen",
       "email": "ptallen63@gmail.com"
     }
   ],
+  "versions": "v0.1.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ptallen63/ngMacgyver.git"
