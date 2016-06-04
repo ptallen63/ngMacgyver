@@ -1,5 +1,5 @@
 angular.module('ngMacgyver.services', [])
-.service('$wrench', function () {
+.service('wrench', function () {
 	//Set up 
 	
 
